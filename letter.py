@@ -1,0 +1,7 @@
+print("24th August 2025")
+print("8th Bhadra 2082")
+print("After completing basic course from codedex.io I have decided to learn through Projects and this is my first project")
+print("I hope after few months or years I would have learned python and this file would be memory")
+print("In python I want learn backend, ML and later on fullstack")
+print("This will always remind me Anli")
+print("😘")
