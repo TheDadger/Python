@@ -1,72 +1,32 @@
-Perfect 🔥 Let’s turn the entire roadmap into Codédex-style projects — just like the Snail Mail example you shared. Each project will have:
-
-Title
-
-Congrats! message 🎉
-
-Refresher (skills practiced)
-
-Instructions (what to do)
-
-I’ll start from Level 1 → Level 4 in order.
-
-🐍 Python Project Roadmap (Codédex Style)
+🐍 Python Project Roadmap
 🔰 Level 1 – Beginner Console Projects
 01. Future Letter ✉️
-Congrats!
-OMG you’re starting your first project! (ง🔥Д🔥)ง
 
 print("Let’s write a letter to your future programmer self!")
-
-Refresher:
-
-print() for output
-
-Running Python line by line
-
-Comments with #
-
-Instructions:
 
 Create a file called letter.py.
 
 Print:
-
-Today’s date
-
-How you feel right now
-
-Your goal with coding
-
-A message to your future self
-
-Your favorite emoji
+-->Today’s date
+-->How you feel right now
+-->Your goal with coding
+-->A message to your future self
+-->Your favorite emoji
 
 02. Mood Tracker 🙂😡😢
-Congrats!
-You’re learning how to interact with users! 🎤
 
 print("Let’s check your mood today!")
 
-Refresher:
-
-input() for user input
-
 if/elif/else conditionals
-
-Instructions:
 
 Create mood.py.
 
 Ask the user how they feel today.
 
 Print a custom response:
-
-If "happy" → "Stay positive! 🌞"
-
-If "sad" → "Better days are coming 💙"
-
-If "angry" → "Take a deep breath 😮‍💨"
+-->If "happy" → "Stay positive! 🌞"
+-->If "sad" → "Better days are coming 💙"
+-->If "angry" → "Take a deep breath 😮‍💨"
 
 03. Number Guessing Game 🎲
 Congrats!
