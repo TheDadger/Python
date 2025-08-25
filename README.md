@@ -1,5 +1,6 @@
 🐍 Python Project Roadmap
 🔰 Level 1 – Beginner Console Projects
+
 01. Future Letter ✉️
 
 print("Let’s write a letter to your future programmer self!")
@@ -12,6 +13,7 @@ Print:
 -->Your goal with coding
 -->A message to your future self
 -->Your favorite emoji
+
 
 02. Mood Tracker 🙂😡😢
 
@@ -28,21 +30,15 @@ Print a custom response:
 -->If "sad" → "Better days are coming 💙"
 -->If "angry" → "Take a deep breath 😮‍💨"
 
+
 03. Number Guessing Game 🎲
-Congrats!
-You’re learning how to combine loops and randomness! 🔄
 
 print("Guess the number, if you dare!")
 
 Refresher:
-
-while loop
-
-random module
-
-Comparison operators
-
-Instructions:
+-->while loop
+-->random module
+-->Comparison operators
 
 Create guess.py.
 
@@ -51,6 +47,8 @@ Computer picks a number between 1 and 20.
 Ask user to guess until they’re right.
 
 Give hints: "Too high" or "Too low".
+
+
 
 04. Calculator ➕➖✖️➗
 Congrats!
