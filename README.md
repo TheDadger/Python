@@ -51,28 +51,20 @@ Give hints: "Too high" or "Too low".
 
 
 04. Calculator ➕➖✖️➗
-Congrats!
-Time to do some math with Python! 🧮
 
-print("Let’s make a calculator!")
+print("Let’s calculate!")
 
-Refresher:
+->Type casting int() or float()
 
-input()
+->Functions
 
-Type casting int() or float()
+->Create calculator.py.
 
-Functions
+->Ask for two numbers.
 
-Instructions:
+->Ask for operation (+, -, *, /).
 
-Create calculator.py.
-
-Ask for two numbers.
-
-Ask for operation (+, -, *, /).
-
-Print result.
+->Print result.
 
 05. To-Do List ✅
 Congrats!
