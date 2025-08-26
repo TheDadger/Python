@@ -92,6 +92,8 @@ print("Let’s calculate!")
 
 ->Print final task list before program ends.
 
+##there would be two to do app one using list only with no memory and one with concept of file handling
+
 🟡 Level 2 – Beginner → Intermediate
 06. Quiz Game ❓
 Congrats!
