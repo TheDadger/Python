@@ -66,6 +66,12 @@ print("Let’s calculate!")
 
 ->Print result.
 
+#there are two ways to run this file
+#remember eval is dangerous if you run untrusted code
+#calculate() uses eval to evaluate the expression
+#main() uses defined functions to perform operations
+
+
 05. To-Do List ✅
 Congrats!
 You’re learning how to manage tasks! 📋
