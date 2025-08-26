@@ -73,32 +73,24 @@ print("Let’s calculate!")
 
 
 05. To-Do List ✅
-Congrats!
-You’re learning how to manage tasks! 📋
 
-print("Time to be productive with Python!")
+->Lists
 
-Refresher:
+->Loops
 
-Lists
+->append() and remove()
 
-Loops
+->Create todo.py.
 
-append() and remove()
+->Allow user to:
 
-Instructions:
+->Add tasks
 
-Create todo.py.
+->View tasks
 
-Allow user to:
+->Remove tasks
 
-Add tasks
-
-View tasks
-
-Remove tasks
-
-Print final task list before program ends.
+->Print final task list before program ends.
 
 🟡 Level 2 – Beginner → Intermediate
 06. Quiz Game ❓
