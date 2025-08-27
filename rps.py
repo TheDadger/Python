@@ -32,3 +32,4 @@ def rps():
 
         tries+=1
 
+rps()
